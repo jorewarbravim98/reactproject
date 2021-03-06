@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h1>Hello World</h1>
      <h1>React Project Intiated</h1>
+     <h1>React Project Intiated with all code</h1>
     </div>
   );
 }
