@@ -1,6 +1,7 @@
 import React from "react";
 //import "./index.css";
 import "./Greet.css";
+
 let currDate = new Date();
 currDate = currDate.getHours();
 let greeting = "";
@@ -20,7 +21,7 @@ function Greet() {
     return (
         <div>
             <h1>
-                Hello Sir,<span style={cssStyle}>{greeting}</span>
+                Hello Sir,<span style={cssStyle}>{greeting} </span> 
             </h1>
         </div>
     );
