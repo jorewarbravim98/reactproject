@@ -37,5 +37,11 @@ ReactDOM.render(
 import React from "react";
 import ReactDOM from "react-dom";
 //import "./index.css";
-import Greet from './Greet';
-ReactDOM.render(<Greet/>,document.getElementById("root"));
+//import Greet from "./Greet";
+import App from './App'
+ReactDOM.render(
+  <>
+    <App/>
+  </>,
+  document.getElementById("root")
+);
