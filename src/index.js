@@ -1,47 +1,27 @@
-/*import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-//import './App.css';
-//import App from './App';
-//import reportWebVitals from './reportWebVitals';
-const name="Bravim";
-//const currDate=new Date().toLocaleDateString();
-//const currTime=new Date().toLocaleTimeString();
-const img1="https://picsum.photos/200/300";
-const img2="https://picsum.photos/250/300";
-const img3="https://picsum.photos/300/300";
-const link1="https://www.youtube.com/watch?v=OloAP8p1k1w&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ&index=14"
-const heading={
-    color: "brown",
-    textAlign: "center",
-    textTransform: "capitalize",
-    fontWeight: "bold",
-    textShadow:"0px 2px 4px #ffe9c5",
-    margin: "70px"
-}
-ReactDOM.render(
-  <>
-  <h1 style={heading}>Hello, My name is {name}</h1>
-  <div className="img_div">
-  <a href={link1} target="_youtube">
-  <img src={img1} alt="nature"/>
-  <img src={img2} alt="nature"/>
-  <img src={img3} alt="nature"/>
-  </a>
-  </div>
-  </>,
-  
-);
-//reportWebVitals();
-*/
 import React from "react";
 import ReactDOM from "react-dom";
-//import "./index.css";
-//import Greet from "./Greet";
-import App from './App'
+import Cards from './Cards'
+
 ReactDOM.render(
   <>
-    <App/>
+    <Cards
+      imgsrc="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1565355376-61wfjy7qkAL.jpg?crop=1xw:1xh;center,top&resize=480%3A%2A"
+      title="A original Netflix Series"
+      Sname="DARK"
+      link="https://www.netflix.com/in/title/80100172"
+    />
+    <Cards
+      imgsrc="https://i1.wp.com/udou.ph/wp-content/uploads/2020/03/extracurricular.jpg?resize=400%2C600&ssl=1"
+      title="A original Netflix Series"
+      Sname="Extracurricular"
+      link="https://www.netflix.com/in/title/80990668"
+    />
+    <Cards
+      imgsrc="https://wallpaperaccess.com/full/2114490.jpg"
+      title="A original Netflix Series"
+      Sname="YOU"
+      link="https://www.netflix.com/in/title/80211991"
+    />
   </>,
   document.getElementById("root")
 );
