@@ -1,26 +1,46 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Cards from './Cards'
-
+import Cards from './Cards';
+import Sdata from './Sdata';
+import "./index.css";
 ReactDOM.render(
   <>
+    <h1 >LIST OF TOP NETFLIKS SERIES 2021</h1>
     <Cards
-      imgsrc="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1565355376-61wfjy7qkAL.jpg?crop=1xw:1xh;center,top&resize=480%3A%2A"
-      title="A original Netflix Series"
-      Sname="DARK"
-      link="https://www.netflix.com/in/title/80100172"
+      imgsrc={Sdata[0].imgsrc}
+      title={Sdata[0].title}
+      Sname={Sdata[0].Sname}
+      link={Sdata[0].link}
     />
     <Cards
-      imgsrc="https://i1.wp.com/udou.ph/wp-content/uploads/2020/03/extracurricular.jpg?resize=400%2C600&ssl=1"
-      title="A original Netflix Series"
-      Sname="Extracurricular"
-      link="https://www.netflix.com/in/title/80990668"
+      imgsrc={Sdata[1].imgsrc}
+      title={Sdata[1].title}
+      Sname={Sdata[1].Sname}
+      link={Sdata[1].link}
     />
     <Cards
-      imgsrc="https://wallpaperaccess.com/full/2114490.jpg"
-      title="A original Netflix Series"
-      Sname="YOU"
-      link="https://www.netflix.com/in/title/80211991"
+      imgsrc={Sdata[2].imgsrc}
+      title={Sdata[2].title}
+      Sname={Sdata[2].Sname}
+      link={Sdata[2].link}
+    />
+    <Cards
+      imgsrc={Sdata[3].imgsrc}
+      title={Sdata[3].title}
+      Sname={Sdata[3].Sname}
+      link={Sdata[3].link}
+    />
+    <Cards
+      imgsrc={Sdata[4].imgsrc}
+      title={Sdata[4].title}
+      Sname={Sdata[4].Sname}
+      link={Sdata[4].link}
+    />
+    <Cards
+      imgsrc={Sdata[5].imgsrc}
+      title={Sdata[5].title}
+      Sname={Sdata[5].Sname}
+      link={Sdata[5].link}
     />
   </>,
   document.getElementById("root")
