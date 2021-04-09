@@ -8,7 +8,7 @@ const Sdata = [
     {
         imgsrc: "https://i1.wp.com/udou.ph/wp-content/uploads/2020/03/extracurricular.jpg?resize=400%2C600&ssl=1",
         title: "A original Netflix Series",
-        Sname: "Extracurricular",
+        Sname: "EXTRACURRICULAR",
         link: "https://www.netflix.com/in/title/80990668"
     },
     {
@@ -26,7 +26,7 @@ const Sdata = [
     {
         imgsrc: "https://i1.wp.com/udou.ph/wp-content/uploads/2020/03/extracurricular.jpg?resize=400%2C600&ssl=1",
         title: "A original Netflix Series",
-        Sname: "Extracurricular",
+        Sname: "EXTRACURRICULAR",
         link: "https://www.netflix.com/in/title/80990668"
     },
     {
