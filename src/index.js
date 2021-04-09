@@ -5,7 +5,7 @@ import Sdata from './Sdata';
 import "./index.css";
 ReactDOM.render(
   <>
-    <h1 >LIST OF TOP NETFLIKS SERIES 2021</h1>
+    <h1 >LIST OF TOP NETFLIKS WEB SERIES 2021</h1>
     <Cards
       imgsrc={Sdata[0].imgsrc}
       title={Sdata[0].title}
