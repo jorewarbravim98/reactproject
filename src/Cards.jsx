@@ -15,7 +15,6 @@ function Cards(props){
         </div>
       </div>
     </>
-  
     );
   }
   export default Cards
