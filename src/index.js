@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import Cards from './Cards';
 import Sdata from './Sdata';
 import "./index.css";
-const ncard = (val) => {
+const ncard = (val,index) => {
   return (<Cards
     key={val.id}
     imgsrc={val.imgsrc}
