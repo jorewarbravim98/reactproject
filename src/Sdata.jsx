@@ -61,5 +61,27 @@ const Sdata = [
         title: "A original Netflix Series",
         Sname: "DELHI CRIME",
         link: "https://www.netflix.com/in/title/81076756"
-    }]
+    },
+     {
+        id:10,
+        imgsrc: "https://th.bing.com/th/id/OIP.mY8CJX1AkMwKD17iK3arnAAAAA?pid=ImgDet&rs=1",
+        title: "A original Netflix Series",
+        Sname: "THE BABY BOSS",
+        link: "https://www.netflix.com/in/title/80178943"
+    },
+    {
+        id:11,
+        imgsrc: "https://th.bing.com/th/id/OIP.VJeHn4v_bi_yyF6XhNQ-3QHaHa?pid=ImgDet&rs=1",
+        title: "A original Netflix Series",
+        Sname: "TROLLHUNTERS",
+        link: "https://www.netflix.com/in/title/80075820"
+    },
+    {
+        id:12,
+        imgsrc: "https://cdn.images.express.co.uk/img/dynamic/36/750x445/1042617.jpg",
+        title: "A original Netflix Series",
+        Sname: "MOWGLI: LEGEND OF THE JUNGLE",
+        link: "hhttps://www.netflix.com/in/title/80993105"
+    },
+]
 export default Sdata
