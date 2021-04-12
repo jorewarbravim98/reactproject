@@ -50,6 +50,7 @@ body {
   padding: 16px 24px 24px 24px;
  /*background-color: wheat;*/
   text-align:center;
+  height:120px;
 }
 .card_category{
   font-family: "Relaway",sans-serif;
