@@ -82,6 +82,6 @@ const Sdata = [
        imgsrc: "https://cdn.images.express.co.uk/img/dynamic/36/750x445/1042617.jpg",
        title: "A original Netflix Series",
        Sname: "MOWGLI",
-       link: "hhttps://www.netflix.com/in/title/80993105"
+       link: "https://www.netflix.com/in/title/80993105"
    },]
 export default Sdata

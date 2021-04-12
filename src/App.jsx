@@ -3,7 +3,7 @@ import Cards from './Cards';
 import Sdata from './Sdata';
 const App = () => (
   <>
-    <h1 >LIST OF TOP NETFLIKS WEB SERIES 2021</h1>
+    <h1 >LIST OF TOP NETFLIX WEB SERIES 2021</h1>
     {Sdata.map((val, index) => {
       return (
         <Cards
