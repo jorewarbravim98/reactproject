@@ -141,7 +141,7 @@ body {
 h1 {
   padding: 20px 20px;
   
-  color: #fa9191;
+  color: linear-gradient(to top, #339933 -2%, #000066 105%);
   border-radius: 20px;
   text-align:center;
 }
