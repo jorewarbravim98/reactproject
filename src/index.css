@@ -41,8 +41,12 @@ body {
 }
 .card_img{
   width: 100%;
+<<<<<<< HEAD
   margin-top: -60px;
   height: 230px;
+=======
+  height: 250px;
+>>>>>>> 669b5344948df5bd96fd2a2fe7a8bf409568f260
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
   border-bottom-left-radius: 12px;
@@ -56,9 +60,14 @@ body {
   border-bottom-right-radius: 12px;
  /*background-color: wheat;*/
   text-align:center;
+<<<<<<< HEAD
   word-wrap: break-word;
   height: 110px;
   padding: 3px;
+=======
+  height:120px;
+  padding-bottom: 10px;  
+>>>>>>> 669b5344948df5bd96fd2a2fe7a8bf409568f260
 }
 .card_category{
   font-family: "Relaway",sans-serif;
