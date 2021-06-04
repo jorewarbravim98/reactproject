@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactwebseries/static/css/main.a24e216b.chunk.css",
-    "main.js": "/reactwebseries/static/js/main.ca1bb786.chunk.js",
-    "main.js.map": "/reactwebseries/static/js/main.ca1bb786.chunk.js.map",
-    "runtime-main.js": "/reactwebseries/static/js/runtime-main.666141bf.js",
-    "runtime-main.js.map": "/reactwebseries/static/js/runtime-main.666141bf.js.map",
-    "static/js/2.c4c6b390.chunk.js": "/reactwebseries/static/js/2.c4c6b390.chunk.js",
-    "static/js/2.c4c6b390.chunk.js.map": "/reactwebseries/static/js/2.c4c6b390.chunk.js.map",
+    "main.css": "/reactwebseries/static/css/main.2d46f768.chunk.css",
+    "main.js": "/reactwebseries/static/js/main.af1555ba.chunk.js",
+    "main.js.map": "/reactwebseries/static/js/main.af1555ba.chunk.js.map",
+    "runtime-main.js": "/reactwebseries/static/js/runtime-main.b4352415.js",
+    "runtime-main.js.map": "/reactwebseries/static/js/runtime-main.b4352415.js.map",
+    "static/js/2.35721764.chunk.js": "/reactwebseries/static/js/2.35721764.chunk.js",
+    "static/js/2.35721764.chunk.js.map": "/reactwebseries/static/js/2.35721764.chunk.js.map",
     "index.html": "/reactwebseries/index.html",
-    "static/css/main.a24e216b.chunk.css.map": "/reactwebseries/static/css/main.a24e216b.chunk.css.map",
-    "static/js/2.c4c6b390.chunk.js.LICENSE.txt": "/reactwebseries/static/js/2.c4c6b390.chunk.js.LICENSE.txt"
+    "static/css/main.2d46f768.chunk.css.map": "/reactwebseries/static/css/main.2d46f768.chunk.css.map",
+    "static/js/2.35721764.chunk.js.LICENSE.txt": "/reactwebseries/static/js/2.35721764.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.666141bf.js",
-    "static/js/2.c4c6b390.chunk.js",
-    "static/css/main.a24e216b.chunk.css",
-    "static/js/main.ca1bb786.chunk.js"
+    "static/js/runtime-main.b4352415.js",
+    "static/js/2.35721764.chunk.js",
+    "static/css/main.2d46f768.chunk.css",
+    "static/js/main.af1555ba.chunk.js"
   ]
 }
