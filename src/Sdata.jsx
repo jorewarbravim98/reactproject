@@ -29,7 +29,7 @@ const Sdata = [
     },
     {
         id:5,
-        imgsrc: "https://www.prokerala.com/images/1200x675/the-white-tiger-new-posters.jpg",
+        imgsrc: "http://www.impawards.com/2021/posters/white_tiger_ver5_xlg.jpg",
         title: "A original Netflix Series",
         Sname: "THE WHITE TIGER",
         link: "https://www.netflix.com/in/title/80202877"
