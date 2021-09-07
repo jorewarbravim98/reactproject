@@ -29,7 +29,7 @@ const Sdata = [
     },
     {
         id:5,
-        imgsrc: "https://www.edadaji.in/wp-content/uploads/2020/12/The-white-tiger.jpg",
+        imgsrc: "https://www.pinkvilla.com/imageresize/the_white_tiger_official_poster_main.jpg?width=752&format=webp&t=pvorg",
         title: "A original Netflix Series",
         Sname: "THE WHITE TIGER",
         link: "https://www.netflix.com/in/title/80202877"
