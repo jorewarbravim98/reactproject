@@ -29,7 +29,7 @@ const Sdata = [
     },
     {
         id:5,
-        imgsrc: "https://www.pinkvilla.com/imageresize/the_white_tiger_official_poster_main.jpg?width=752&format=webp&t=pvorg",
+        imgsrc: "https://fanart.tv/fanart/movies/628534/movieposter/the-white-tiger-6015888966474.jpg",
         title: "A original Netflix Series",
         Sname: "THE WHITE TIGER",
         link: "https://www.netflix.com/in/title/80202877"
