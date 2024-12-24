@@ -8,7 +8,7 @@ const Sdata = [
     },
     {
         id:2,
-        imgsrc: "https://i1.wp.com/udou.ph/wp-content/uploads/2020/03/extracurricular.jpg?resize=400%2C600&ssl=1",
+        imgsrc: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTds531YocrFws0v37w3wM5Nzp7R1iUB1F8nrdqFD3a2fg0_dMs",
         title: "A original Netflix Series",
         Sname: "EXTRACURRICULAR",
         link: "https://www.netflix.com/in/title/80990668"
@@ -22,21 +22,21 @@ const Sdata = [
     },
     {
         id:4,
-        imgsrc: "https://hackersof.com/wp-content/uploads/2019/01/Sacred-Games-indian-web-series.png",
+        imgsrc: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyI-N4Sy-tDcLM93Z0049o6nuIi_afh8T2K5MyVRJ5FxY6Aj4a",
         title: "A original Netflix Series",
         Sname: "SACRED GAMES",
         link: "https://www.netflix.com/in/title/80115328",
     },
     {
         id:5,
-        imgsrc: "http://www.impawards.com/2021/posters/white_tiger_ver5_xlg.jpg",
+        imgsrc: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTi9AsnUGqlJkPJ0cbDEIuNp0WN3SDsw5wg7qaMZazxW_qTWbls",
         title: "A original Netflix Series",
         Sname: "THE WHITE TIGER",
         link: "https://www.netflix.com/in/title/80202877"
     },
     {
         id:6,
-        imgsrc: "https://th.bing.com/th/id/Rd33359d50aaf9b8e33470f9d4adc96e0?rik=ypEwu8niWbkPnQ&riu=http%3a%2f%2fbestreview.co.in%2fwp-content%2fuploads%2f2020%2f05%2fExtraction-poster-min-893x1024.jpg&ehk=L6Nl%2bAiy%2fcd1H3YBp4yoN0Z3hubx0gYH2M4Bv9Bhgmk%3d&risl=&pid=ImgRaw",
+        imgsrc: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIod4biXJWgVBkPoUos1pFXzwHgSLUo9-rOy2vVld4RML-1dJI",
         title: "A original Netflix Series",
         Sname: "EXTRACTION",
         link: "https://www.netflix.com/in/title/80230399"
@@ -57,7 +57,7 @@ const Sdata = [
     },
     {
         id:9,
-        imgsrc: "https://img.odishatv.in/wp-content/uploads/2020/11/Delhi-Crime.jpg",
+        imgsrc: "https://filmyfool.com/wp-content/uploads/2019/03/delhi-crime-1024x1024.jpg",
         title: "A original Netflix Series",
         Sname: "DELHI CRIME",
         link: "https://www.netflix.com/in/title/81076756"
